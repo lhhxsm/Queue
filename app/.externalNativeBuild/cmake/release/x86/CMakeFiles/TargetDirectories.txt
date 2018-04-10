@@ -1,0 +1,3 @@
+D:/AndroidStudioProjects/QueueDemo/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/native-lib.dir
+D:/AndroidStudioProjects/QueueDemo/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/edit_cache.dir
+D:/AndroidStudioProjects/QueueDemo/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/rebuild_cache.dir
